@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zepyx</h1>
-<h3 align="center">I'm A Coder and Arch Linux Tinkerer</h3>
+<h3 align="center">I'm A Coder,Minecraft RBW Player and Arch Linux Tinkerer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzepyx&label=Profile%20views&color=0e75b6&style=flat" alt="xzepyx" /> </p>
 
