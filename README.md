@@ -9,7 +9,7 @@
 
 - I’m looking for help with [Corefetch](github.com/xzepyx/Corefetch)
 
-- All of my projects are available at [My Projects](https://github.com/xzepyx?tab=repositories)
+- All of my projects are available [here](https://github.com/xzepyx?tab=repositories)
 
 - How to reach me **zepyxunderscore@gmail.com**
 
