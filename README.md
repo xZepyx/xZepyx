@@ -11,7 +11,7 @@
 
 - All of my projects are available [here](https://github.com/xzepyx?tab=repositories)
 
-- How to reach me **zepyxunderscore@gmail.com**
+- How to reach me **zepyxunderscore@gmail.com** or [My Discord Gaming server](https://discord.gg/ADkFj8Zats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
