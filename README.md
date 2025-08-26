@@ -30,12 +30,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xzepyx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xzepyx&theme=tokyonight)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xzepyx&show_icons=true&locale=en&layout=compact" alt="xzepyx" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xzepyx&show_icons=true&locale=en" alt="xzepyx" />
-</p>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
