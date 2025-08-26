@@ -19,8 +19,7 @@
 - 🤝 I’m looking for help with [Corefetch](https://github.com/xzepyx/Corefetch)
 - 💻 All of my projects are available [here](https://github.com/xzepyx?tab=repositories)
 - 📫 How to reach me: **zepyxunderscore@gmail.com** or [My Discord Gaming server](https://discord.gg/ADkFj8Zats)
-- 🏠 Kindly join my Discord: [Discord Community](https://discord.com/invite/9JEgZsfhex)
-- 📺 You can follow me on [YouTube](https://www.youtube.com/@Ja.KooLit) — Please subscribe 🤩 Thanks a lot!
+- 🏠 Kindly join my Discord: [Discord Community](https://discord.com/invite/ADkFj8Zats)
 
 ---
 
