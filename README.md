@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zepyx</h1>
-<h3 align="center">I'm a Coder, Minecraft RBW Player, and Arch Linux Tinkerer</h3>
+<h3 align="center">I'm a Guy, Just hanging out, developing things that's all about me</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
