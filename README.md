@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zepyx</h1>
-<h3 align="center">I'm a Guy, Just hanging out, developing things that's all about me</h3>
+<h3 align="center">“Just a guy who codes for fun (and sometimes for real).”</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
@@ -18,8 +18,8 @@
 - 🛠️ I’m currently working on [Hypeman](https://github.com/xzepyx/Hypeman)
 - 🤝 I’m looking for help with [Corefetch](https://github.com/xzepyx/Corefetch)
 - 💻 All of my projects are available [here](https://github.com/xzepyx?tab=repositories)
-- 📫 How to reach me: **zepyxunderscore@gmail.com** or [My Discord Gaming server](https://discord.gg/ADkFj8Zats)
-- 🏠 Kindly join my Discord: [Discord Community](https://discord.com/invite/ADkFj8Zats)
+- 📫 How to reach me: **zepyxunderscore@gmail.com**
+- 🏠 Kindly join my Discord: In developement 
 
 ---
 
