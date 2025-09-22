@@ -1,6 +1,7 @@
 <p align="right">
-  <img src="https://img.shields.io/badge/Profile-Views-blue?style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=xzepyx&label=Profile+Views&color=0e75b6&style=flat-square" alt="xzepyx" />
 </p>
+
 <h1 align="center">👋 Hello, I'm Zepyx</h1>
 <h3 align="center">Linux Enthusiast | Open-Source Contributor | Software Developer</h3>
 
