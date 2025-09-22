@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xzepyx&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="xzepyx" /> </p>
+
 <h1 align="center">👋 Hello, I'm Zepyx</h1>
 <h3 align="center">Linux Enthusiast | Open-Source Contributor | Software Developer</h3>
 
