@@ -1,7 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=xzepyx&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="xzepyx" /> </p>
-
 <h1 align="center">👋 Hello, I'm Zepyx</h1>
 <h3 align="center">Linux Enthusiast | Open-Source Contributor | Software Developer</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xzepyx&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
 
 ---
 
