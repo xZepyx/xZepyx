@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=xzepyx&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="xzepyx" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm Zepyx</h1>
-<h3 align="center">A Linux tinkerer who loves coding for fun (and sometimes for real) 💻</h3>
+<h1 align="center">👋 Hello, I'm Zepyx</h1>
+<h3 align="center">Linux enthusiast | Open-source contributor | Software developer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
@@ -13,19 +13,18 @@
 
 ---
 
-## 🚀 About Me
+## 🔹 About Me
 
-- 🔭 Passionate Linux enthusiast & open-source advocate  
-- 🌱 Currently learning **C++**, **Python**, and **Shell scripting**  
-- 🛠️ Working on [HyprZepyx](https://github.com/xzepyx/HyprZepyx)  
-- 🤝 Looking for someone to host a website for **HyprZepyx Project** 
-- 💻 All my projects: [GitHub Repos](https://github.com/xzepyx?tab=repositories)  
-- 📫 Reach me: **zepyxunderscore@gmail.com**  
-- 🏠 Discord: *(in development)*  
+- 🔭 Linux enthusiast with a focus on open-source software  
+- 🌱 Currently enhancing skills in **C++**, **Python**, and **Shell scripting**  
+- 🛠️ Actively developing [HyprZepyx](https://github.com/xzepyx/HyprZepyx)  
+- 💻 All projects available on my [GitHub](https://github.com/xzepyx?tab=repositories)  
+- 📫 Contact: **zepyxunderscore@gmail.com**  
+- 💬 Discord: [Join here](https://discord.gg/yz9CRjQsc)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xzepyx&theme=tokyonight" alt="GitHub Stats" />
@@ -34,16 +33,16 @@
 
 ---
 
-## 💡 Fun Facts
+## 💡 Insights
 
-- I spend more time customizing my Linux setup than using it 😎  
-- Coffee + Code = Happiness ☕💻  
-- Always experimenting with scripts, configs, and dotfiles  
+- Focused on **Linux customization, automation, and efficient workflows**  
+- Strong interest in **open-source contributions and community projects**  
+- Continuously experimenting with **scripts, configurations, and development tools**  
 
 ---
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=28&pause=1000&color=0e75b6&center=true&width=600&lines=Thanks+for+dropping+by!+%F0%9F%91%8D;Keep+coding,+keep+learning!" alt="Thank you message" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=28&pause=1000&color=0e75b6&center=true&width=600&lines=Thank+you+for+visiting!;Always+keep+learning+and+building" alt="Thank you message" />
   </a>
 </h3>
