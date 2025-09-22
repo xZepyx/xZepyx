@@ -10,7 +10,7 @@
 - 🛠️ Actively developing [HyprZepyx](https://github.com/xzepyx/HyprZepyx)  
 - 💻 All projects available on my [GitHub](https://github.com/xzepyx?tab=repositories)  
 - 📫 Contact: **zepyxunderscore@gmail.com**  
-- 💬 Discord: [Join here](https://discord.gg/yz9CRjQsc)  
+- 💬 Discord: [Join here](https://discord.gg/yz9CRjQscP)  
 
 ---
 
