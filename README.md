@@ -1,7 +1,5 @@
 ## About me
-- I use Linux.
-- I use VsCode.
-- You might find more about me [at my website](https://zepyx.home.kg)
+- I use arch btw
 - My username is pronounced like: zep-hex
 
 ## Social 
