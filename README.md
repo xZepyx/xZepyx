@@ -1,16 +1,10 @@
-## About Me
-I build reliable, maintainable software and tools that solve real problems. (ig)
+# About me
+* I use linux.
+* I like to code and solve problems
+* I don't really care abt anything much.
 
-## Focus
-- Area: [Backend Systems, User Interfaces and UX]
-- Stack: [C++, QT/QML, Nim, Python]
-
-## How I work
-- Pragmatic, outcome-driven approach.
-- Prefer small but detailed, reviewable PRs and strong tests.
-- Automate repeatable tasks; measure and iterate.
-
-## Contact
-- Email: zepyxunderscore@gmail.com
-- Website / Portfolio: https://zepyx.home.kg
-- X/Twitter: @ZepyxUnderscore
+# Socials
+* Reddit: `u/ArchPowerUser` I hate this username.
+* Discord: `@zepyxunderscore`
+* Email: zepyxunderscore@gmail.com
+* X: @ZepyxUnderscore
