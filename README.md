@@ -5,6 +5,6 @@
 
 # Socials
 * Reddit: `u/ArchPowerUser` I hate this username.
-* Discord: `@zepyxunderscore`
+* Discord: `@zepyx`
 * Email: zepyxunderscore@gmail.com
 * X: @ZepyxUnderscore
