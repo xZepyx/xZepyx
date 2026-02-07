@@ -1,7 +1,7 @@
 # About me
-* I use linux.
-* I like to code and solve problems
-* I don't really care abt anything much.
+* I use **`linux`**.
+* I'm just a student rn.
+* `Microsoft Windows` is nsfw.
 
 # Socials
 * Reddit: `u/ArchPowerUser` I hate this username.
